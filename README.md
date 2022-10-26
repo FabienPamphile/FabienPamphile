@@ -14,7 +14,7 @@
 <li>😀 I'm open-minded, easy going and love to learn new things </li>
 </ul>
 <p>&nbsp;</p>
-<h2 align="center">
+<h2>
 <a href="mailto:hi@fabienpamphile.com">Let's get in touch >>></a>
 </h2>
 
